@@ -1,0 +1,4 @@
+keyboard==0.13.5
+PyAutoGUI==0.9.53
+pywhatkit==5.4
+tkcalendar==1.6.1
